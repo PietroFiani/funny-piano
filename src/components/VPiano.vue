@@ -62,20 +62,20 @@ export default {
   components: {},
   mounted() {},
   methods: {
-    playBk(sound,id) {
+    playBk(sound) {
       const audio = document.createElement("audio"); // crée la div audio au click
       audio.src = sound;
       event.target.classList.add("bkColorChange");
       audio.play();
-      let lettre = document.getElementById(id)
-      lettre.setAttribute("fill-opacity","1")
     },
 
-    playWk(sound) {
+    playWk(sound,id) {
       const audio = document.createElement("audio"); // crée la div audio au click
       audio.src = sound;
       event.target.classList.add("wkColorChange");
       audio.play();
+      let lettre = document.getElementById(id)
+      lettre.setAttribute("fill-opacity","1")
     },
 
     removeColorBk() {
@@ -105,15 +105,15 @@ export default {
 };
 </script>
 
-<style scoped>
-@import url("https://fonts.googleapis.com/css2?family=PT+Mono&display=swap");
+<style lang="postcss" scoped>
 
 .bkColorChange{
   fill: blue;
 }
-@media screen (max-width: 300px){
+
+@media screen and (max-width: 500px){
   svg{
-    width: 1px;
+    width:1px; 
   }
 }
 </style>
