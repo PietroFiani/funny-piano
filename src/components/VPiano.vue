@@ -1,6 +1,6 @@
 <template>
-  <div class="pianoContainer flex flex-col items-center ">
-    <div class="emoji h-48 w-48">
+  <div class="pianoContainer flex flex-col items-center">
+    <div class="emoji">
       <div style="width: 100%; padding-bottom: 100%; position: relative">
         <iframe
           id="gif"
@@ -112,19 +112,36 @@ export default {
 .bkColorChange{
   fill: blue;
 }
-
+.emoji{
+  width: 12vw;
+  margin-top: 4vh;
+  margin-bottom: 15vh;
+}
 svg{
   width: 100%;
-  height: auto;
-  margin: auto;
+  margin:-120px;
+  padding: 0px;
+  height: 550px;
+}
+.pianoContainer{
+  width: 100%;
+  height: 100%;
 }
 
-@media screen and (max-width: 376px) {
-  svg {
-    width: 100%;
+@media screen and (max-width: 412px){
+  .emoji{
+    width: 50%;
+    margin-top: 25vh;
+    margin-bottom: 26vh;
   }
+  .lettre{
+    display: none;
+  }
+  svg{
+  width: 100%;
+  margin:-300px;
+  padding: 0px;
+  height: 550px;
 }
-
-
-//coucoucoucocucocuocu
+}
 </style>
