@@ -26,18 +26,18 @@
     <path id="Sol" class="lettre"  d="M404.012 408.02C404.412 408.233 404.858 408.413 405.352 408.56C405.858 408.693 406.365 408.76 406.872 408.76C407.312 408.76 407.725 408.72 408.112 408.64C408.498 408.547 408.832 408.407 409.112 408.22C409.405 408.02 409.632 407.773 409.792 407.48C409.965 407.187 410.052 406.84 410.052 406.44C410.052 405.893 409.865 405.447 409.492 405.1C409.132 404.753 408.678 404.447 408.132 404.18C407.585 403.913 406.992 403.653 406.352 403.4C405.712 403.147 405.118 402.847 404.572 402.5C404.025 402.153 403.565 401.733 403.192 401.24C402.832 400.733 402.652 400.093 402.652 399.32C402.652 398.773 402.758 398.28 402.972 397.84C403.198 397.4 403.512 397.027 403.912 396.72C404.312 396.413 404.792 396.18 405.352 396.02C405.925 395.847 406.558 395.76 407.252 395.76C408.052 395.76 408.778 395.82 409.432 395.94C410.085 396.047 410.605 396.193 410.992 396.38L411.032 396.36V396.4H411.052L411.032 396.46V399.66H409.552V397.52C409.218 397.44 408.852 397.373 408.452 397.32C408.052 397.267 407.625 397.24 407.172 397.24C406.732 397.24 406.332 397.293 405.972 397.4C405.625 397.507 405.325 397.653 405.072 397.84C404.832 398.013 404.645 398.22 404.512 398.46C404.378 398.7 404.312 398.953 404.312 399.22C404.312 399.74 404.492 400.173 404.852 400.52C405.225 400.867 405.685 401.18 406.232 401.46C406.778 401.727 407.372 401.993 408.012 402.26C408.652 402.527 409.245 402.84 409.792 403.2C410.338 403.547 410.792 403.967 411.152 404.46C411.525 404.953 411.712 405.567 411.712 406.3C411.712 406.9 411.598 407.44 411.372 407.92C411.158 408.4 410.845 408.813 410.432 409.16C410.032 409.507 409.532 409.773 408.932 409.96C408.345 410.147 407.678 410.24 406.932 410.24C406.425 410.24 405.945 410.2 405.492 410.12C405.038 410.04 404.618 409.94 404.232 409.82C403.858 409.7 403.518 409.573 403.212 409.44C402.918 409.307 402.685 409.193 402.512 409.1L402.532 409.04V405.8H404.012V408.02ZM413.964 403C413.964 400.68 414.371 398.893 415.184 397.64C416.011 396.387 417.277 395.76 418.984 395.76C419.917 395.76 420.704 395.933 421.344 396.28C421.997 396.627 422.524 397.12 422.924 397.76C423.324 398.387 423.611 399.147 423.784 400.04C423.957 400.92 424.044 401.907 424.044 403C424.044 405.32 423.631 407.107 422.804 408.36C421.991 409.613 420.717 410.24 418.984 410.24C418.064 410.24 417.284 410.067 416.644 409.72C416.004 409.373 415.484 408.887 415.084 408.26C414.684 407.62 414.397 406.86 414.224 405.98C414.051 405.087 413.964 404.093 413.964 403ZM415.724 403C415.724 403.773 415.771 404.507 415.864 405.2C415.971 405.893 416.151 406.507 416.404 407.04C416.657 407.56 416.991 407.98 417.404 408.3C417.817 408.607 418.344 408.76 418.984 408.76C420.131 408.76 420.964 408.293 421.484 407.36C422.017 406.427 422.284 404.973 422.284 403C422.284 402.24 422.231 401.513 422.124 400.82C422.031 400.113 421.857 399.5 421.604 398.98C421.351 398.447 421.011 398.027 420.584 397.72C420.157 397.4 419.624 397.24 418.984 397.24C417.851 397.24 417.024 397.713 416.504 398.66C415.984 399.593 415.724 401.04 415.724 403ZM426.796 396H428.456V408.52H434.116V405.04H435.596V410H426.796V396Z" fill="white" fill-opacity="0.4"/>
     <path id="La" class="lettre" d="M481.808 396H483.468V408.52H489.128V405.04H490.608V410H481.808V396ZM500.62 406.12H495.24L493.96 410H492.32L497 396H498.96L503.68 410H501.94L500.62 406.12ZM495.76 404.68H500.16L498.1 398.1H497.86L495.76 404.68Z" fill="white" fill-opacity="0.4"/>
     <path id="Si" class="lettre" d="M555.008 408.02C555.408 408.233 555.854 408.413 556.348 408.56C556.854 408.693 557.361 408.76 557.868 408.76C558.308 408.76 558.721 408.72 559.108 408.64C559.494 408.547 559.828 408.407 560.108 408.22C560.401 408.02 560.628 407.773 560.788 407.48C560.961 407.187 561.048 406.84 561.048 406.44C561.048 405.893 560.861 405.447 560.488 405.1C560.128 404.753 559.674 404.447 559.128 404.18C558.581 403.913 557.988 403.653 557.348 403.4C556.708 403.147 556.114 402.847 555.568 402.5C555.021 402.153 554.561 401.733 554.188 401.24C553.828 400.733 553.648 400.093 553.648 399.32C553.648 398.773 553.754 398.28 553.968 397.84C554.194 397.4 554.508 397.027 554.908 396.72C555.308 396.413 555.788 396.18 556.348 396.02C556.921 395.847 557.554 395.76 558.248 395.76C559.048 395.76 559.774 395.82 560.428 395.94C561.081 396.047 561.601 396.193 561.988 396.38L562.028 396.36V396.4H562.048L562.028 396.46V399.66H560.548V397.52C560.214 397.44 559.848 397.373 559.448 397.32C559.048 397.267 558.621 397.24 558.168 397.24C557.728 397.24 557.328 397.293 556.968 397.4C556.621 397.507 556.321 397.653 556.068 397.84C555.828 398.013 555.641 398.22 555.508 398.46C555.374 398.7 555.308 398.953 555.308 399.22C555.308 399.74 555.488 400.173 555.848 400.52C556.221 400.867 556.681 401.18 557.228 401.46C557.774 401.727 558.368 401.993 559.008 402.26C559.648 402.527 560.241 402.84 560.788 403.2C561.334 403.547 561.788 403.967 562.148 404.46C562.521 404.953 562.708 405.567 562.708 406.3C562.708 406.9 562.594 407.44 562.368 407.92C562.154 408.4 561.841 408.813 561.428 409.16C561.028 409.507 560.528 409.773 559.928 409.96C559.341 410.147 558.674 410.24 557.928 410.24C557.421 410.24 556.941 410.2 556.488 410.12C556.034 410.04 555.614 409.94 555.228 409.82C554.854 409.7 554.514 409.573 554.208 409.44C553.914 409.307 553.681 409.193 553.508 409.1L553.528 409.04V405.8H555.008V408.02ZM565.2 396H574.8V397.48H570.82V408.52H574.8V410H565.2V408.52H569.16V397.48H565.2V396Z" fill="white" fill-opacity="0.4"/>
-    <path v-on:click="playWk('./assets/sounds/B.mp3','Do'),emojiDisplay()" v-on:mouseleave="removeColorWk('Do')" d="M92 85C92 82.2386 94.2386 80 97 80H161V332H97C94.2386 332 92 329.761 92 327V85Z" fill="white"/>
-    <rect x="165" y="80" width="69" height="252" fill="white"/>
-    <rect x="238" y="80" width="69" height="252" fill="white"/>
-    <rect x="311" y="80" width="69" height="252" fill="white"/>
-    <rect x="384" y="80" width="69" height="252" fill="white"/>
-    <rect x="457" y="80" width="69" height="252" fill="white"/>
-    <path d="M530 80H594C596.761 80 599 82.2386 599 85V327C599 329.761 596.761 332 594 332H530V80Z" fill="white"/>
-    <path v-on:click="playBk('./assets/sounds/A.mp3','Do'),emojiDisplay()" v-on:mouseleave="removeColorBk()" d="M148 80H178V259C178 261.761 175.761 264 173 264H153C150.239 264 148 261.761 148 259V80Z" fill="black"/>
-    <path v-on:click="playBk('./assets/sounds/A.mp3','Re'),emojiDisplay()" v-on:mouseleave="removeColorBk()" d="M221 80H251V259C251 261.761 248.761 264 246 264H226C223.239 264 221 261.761 221 259V80Z" fill="black"/>
-    <path v-on:click="playBk('./assets/sounds/A.mp3','Mi'),emojiDisplay()" v-on:mouseleave="removeColorBk()" d="M367 80H397V259C397 261.761 394.761 264 392 264H372C369.239 264 367 261.761 367 259V80Z" fill="black"/>
-    <path v-on:click="playBk('./assets/sounds/A.mp3','Fa'),emojiDisplay()" v-on:mouseleave="removeColorBk()" d="M440 80H470V259C470 261.761 467.761 264 465 264H445C442.239 264 440 261.761 440 259V80Z" fill="black"/>
-    <path v-on:click="playBk('./assets/sounds/A.mp3','Sol'),emojiDisplay()" v-on:mouseleave="removeColorBk()" d="M513 80H543V259C543 261.761 540.761 264 538 264H518C515.239 264 513 261.761 513 259V80Z" fill="black"/>
+    <path v-on:click="playWk('./assets/sounds/C.mp3','Do'),emojiDisplay()" v-on:mouseleave="removeColorWk('Do')" class="wk" d="M92 85C92 82.2386 94.2386 80 97 80H161V332H97C94.2386 332 92 329.761 92 327V85Z" fill="white"/>
+    <rect v-on:click="playWk('./assets/sounds/D.mp3','Re'),emojiDisplay()" v-on:mouseleave="removeColorWk('Re')" class="wk" x="165" y="80" width="69" height="252" fill="white"/> <!-- wk = whitekey !-->
+    <rect v-on:click="playWk('./assets/sounds/E.mp3','Mi'),emojiDisplay()" v-on:mouseleave="removeColorWk('Mi')" class="wk" x="238" y="80" width="69" height="252" fill="white"/>
+    <rect v-on:click="playWk('./assets/sounds/F.mp3','Fa'),emojiDisplay()" v-on:mouseleave="removeColorWk('Fa')" class="wk" x="311" y="80" width="69" height="252" fill="white"/>
+    <rect v-on:click="playWk('./assets/sounds/G.mp3','Sol'),emojiDisplay()" v-on:mouseleave="removeColorWk('Sol')" class="wk" x="384" y="80" width="69" height="252" fill="white"/>
+    <rect v-on:click="playWk('./assets/sounds/A.mp3','La'),emojiDisplay()" v-on:mouseleave="removeColorWk('La')" class="wk" x="457" y="80" width="69" height="252" fill="white"/>
+    <path v-on:click="playWk('./assets/sounds/B.mp3','Si'),emojiDisplay()" v-on:mouseleave="removeColorWk('Si')" d="M530 80H594C596.761 80 599 82.2386 599 85V327C599 329.761 596.761 332 594 332H530V80Z" fill="white"/>
+    <path v-on:click="playBk('./assets/sounds/C%23.mp3','Do'),emojiDisplay()" v-on:mouseleave="removeColorBk()" d="M148 80H178V259C178 261.761 175.761 264 173 264H153C150.239 264 148 261.761 148 259V80Z" fill="black"/>
+    <path v-on:click="playBk('./assets/sounds/D%23.mp3','Re'),emojiDisplay()" v-on:mouseleave="removeColorBk()" d="M221 80H251V259C251 261.761 248.761 264 246 264H226C223.239 264 221 261.761 221 259V80Z" fill="black"/>
+    <path v-on:click="playBk('./assets/sounds/F%23.mp3','Mi'),emojiDisplay()" v-on:mouseleave="removeColorBk()" d="M367 80H397V259C397 261.761 394.761 264 392 264H372C369.239 264 367 261.761 367 259V80Z" fill="black"/>
+    <path v-on:click="playBk('./assets/sounds/G%23.mp3','Fa'),emojiDisplay()" v-on:mouseleave="removeColorBk()" d="M440 80H470V259C470 261.761 467.761 264 465 264H445C442.239 264 440 261.761 440 259V80Z" fill="black"/>
+    <path v-on:click="playBk('./assets/sounds/A%23.mp3','Sol'),emojiDisplay()" v-on:mouseleave="removeColorBk()" d="M513 80H543V259C543 261.761 540.761 264 538 264H518C515.239 264 513 261.761 513 259V80Z" fill="black"/>
     </g>
     <defs>
     <filter id="filter0_d" x="0" y="0" width="691" height="502.24" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
@@ -63,6 +63,7 @@ export default {
   mounted() {},
   methods: {
     playBk(sound) {
+      //joue le son et change la couleur de la touche au click grace à v-on:click
       const audio = document.createElement("audio"); // crée la div audio au click
       audio.src = sound;
       event.target.classList.add("bkColorChange");
@@ -70,6 +71,7 @@ export default {
     },
 
     playWk(sound,id) {
+      //joue le son et change la couleur de la touche au click grace à v-on:click
       const audio = document.createElement("audio"); // crée la div audio au click
       audio.src = sound;
       event.target.classList.add("wkColorChange");
@@ -79,17 +81,19 @@ export default {
     },
 
     removeColorBk() {
+       //enlève la classe de changement de couleur des touches noires
       event.target.classList.remove("bkColorChange");
     },
 
     removeColorWk(id) {
+       //enlève la classe de changement de couleur des touches blanches
       event.target.classList.remove("wkColorChange");
       let lettre = document.getElementById(id);
       lettre.setAttribute("fill-opacity","0.4");
     },
 
-    async emojiDisplay() {
-      const gf = new GiphyFetch("oVaWWqzGhsHRIGtsD8eTiR7s5bNkQjF9");
+    async emojiDisplay() { // Affiche l'emoji
+      const gf = new GiphyFetch("oVaWWqzGhsHRIGtsD8eTiR7s5bNkQjF9"); //connection api Giphy
       let randomIndice = Math.floor(Math.random() * 50);
       try {
         const result = await gf.emoji({ limit: 50 });
@@ -106,17 +110,20 @@ export default {
 </script>
 
 <style lang="postcss" scoped>
+/*Classes d'injection pour touches*/
 .wkColorChange{
-  fill: green;
+  fill: rgba(255, 209, 45, 1);
 }
 .bkColorChange{
-  fill: blue;
+  fill: rgba(229, 1, 111, 1);
 }
+/*emoji*/
 .emoji{
   width: 12vw;
   margin-top: 4vh;
   margin-bottom: 15vh;
 }
+/*Piano*/
 svg{
   width: 100%;
   margin:-120px;
@@ -132,16 +139,18 @@ svg{
   .emoji{
     width: 50%;
     margin-top: 25vh;
-    margin-bottom: 26vh;
+    margin-bottom: 23vh;
   }
   .lettre{
     display: none;
   }
   svg{
   width: 100%;
-  margin:-300px;
-  padding: 0px;
-  height: 550px;
-}
+  margin:-280px;
+  padding: 0px; 
+  }
+  #test{
+    width: 100%;
+  }
 }
 </style>

@@ -49,7 +49,7 @@ export default {
     margin-top: 4vh;
   }
   .title{
-    width: 50vw; 
+    width: 70vw; /*changer la width pour changer la taille du titre, la heigth ne change rien */
   }
 }
 </style>
